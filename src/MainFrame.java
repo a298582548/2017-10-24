@@ -71,7 +71,7 @@ public MainFrame(){
                case 3:
                    fontStyle = Font.BOLD + Font.ITALIC;
            }
-           
+
         }
     });
     jMIt.addActionListener(new ActionListener() {
